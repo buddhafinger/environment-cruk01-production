@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: node-demo02
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.2
+  version: v0.0.1
 - name: simondemo01
   repository: http://jenkins-x-chartmuseum:8080
   version: v0.0.2
